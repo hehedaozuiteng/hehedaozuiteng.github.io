@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hehedaozuiteng.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-05-01T00:36:38.320Z</updated>
+    <title>Henrys space</title>
+    <updated>2020-05-01T00:58:14.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hehedaozuiteng.github.io"/>
     <link rel="self" href="https://hehedaozuiteng.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>知者不言，言者不知。</subtitle>
     <logo>https://hehedaozuiteng.github.io/images/avatar.png</logo>
     <icon>https://hehedaozuiteng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Henrys space</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://hehedaozuiteng.github.io/post/hello-gridea/</id>
